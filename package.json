@@ -1,0 +1,10 @@
+{
+  "name": "icareu",
+  "version": "0.0.1",
+  "description": "給減肥的朋友使用的記錄網頁",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "skynet"
+}
